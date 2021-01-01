@@ -72,15 +72,14 @@
 - ES6
 - 面向对象编程 和 函数式编程
 
-<!-- TODO: -->
 ### 文章
 
-- :book: [CSS（层叠样式表）](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
-- :book: [CSS现状和如何学习 —— 大漠](https://www.w3cplus.com/css/learning-css.html)
+- :book: [JavaScript 教程 —— W3School](https://www.w3school.com.cn/js/index.asp)
+- :book: [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ### 视频
-<!-- TODO: -->
-- :tv: [初识HTML(5)+CSS(3)-2020升级版 —— 慕课网](https://www.imooc.com/learn/9)
+- :tv: [JavaScript深入浅出 —— 慕课网](https://www.imooc.com/learn/277)
+- :tv: [JavaScript进阶篇 —— 慕课网](https://www.imooc.com/learn/10)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -113,11 +112,13 @@
 - :book: [Angular 中文网](https://angular.cn/docs)
 - :book: [NgRx Docs](https://ngrx.io/docs)
 - :book: [RxJS 中文文档](https://cn.rx.js.org/)
-- :book: [Svelte中文文档](https://www.sveltejs.cn/)
+- :book: [Svelte 中文文档](https://www.sveltejs.cn/)
 
 ### 视频
-- :tv: []()
-<!-- TODO: -->
+- :tv: [3小时速成 Vue2.x 核心技术 —— 慕课网](https://www.imooc.com/learn/1091)
+- :tv: [vue3教程 —— 慕课网](https://www.bilibili.com/video/BV1zt411e7fp?from=search&seid=13114485130849223418)
+- :tv: [React16.4 快速上手 —— 慕课网](https://react.docschina.org/)
+- :tv: [油管搬运Svelte框架全教程 —— bilibili](https://www.bilibili.com/video/BV1Fa4y1i7mU?from=search&seid=11123310569603775978)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -141,8 +142,9 @@
 - :book: [Parcel 中文网](https://zh.parceljs.org/)
 
 ### 视频
-<!-- TODO: -->
-- :tv: []()
+
+- :tv: [前端内容的自动化构建](https://www.imooc.com/learn/922)
+- :tv: [Grunt-beginner前端自动化工具](https://www.imooc.com/learn/30)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -160,9 +162,8 @@
 - :book: [sapper中文网](https://www.iqi360.com/p/sapper_cn)
 
 ### 视频
-<!-- TODO: -->
-- :tv: []()
 
+- :tv: [Nuxt.js免费视频教程 开启SSR渲染 —— 技术胖](https://www.bilibili.com/video/BV1Xt41117Kg)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -176,10 +177,6 @@
 ### 文章
 - :book: [Gridsome 是一个免费、开源、基于 Vue.js 构建的框架](https://www.gridsome.cn/)
 - :book: [GatsbyJS 中文网](https://www.gatsbyjs.cn/)
-
-### 视频
-<!-- TODO: -->
-- :tv: []()
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -218,6 +215,9 @@
 - :book: [Nestjs中文网](https://www.itying.com/nestjs/)
 - :book: [Deno 中文手册](https://manual.deno.js.cn/)
 
+### 视频
+- :tv: [Nodejs全栈入门 —— 慕课网](https://www.imooc.com/learn/1199)
+
 **[:arrow_up: 返回目录](#目录)**
 
 ---
@@ -230,7 +230,6 @@ Electron.js是可以通过HTML，CSS，JavaScript开发跨平台的桌面应用�
 - 性能优化
 - 调试
 - 部署
-
 
 ### 文章
 - :book: [Electron 文档](https://www.electronjs.org/docs/tutorial/quick-start)
