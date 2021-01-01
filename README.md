@@ -8,7 +8,7 @@
 
 这是一份 2021 年前端开发手册，列举前端开发相关技术，提供相关技术的学习资源。下面的项目不用全部学习，可以选其中一些学习。
 
-欢迎补充！
+欢迎补充！项目地址：[2021-frontend-handbook](https://github.com/stephentian/2021-frontend-handbook)
 
 ---
 
